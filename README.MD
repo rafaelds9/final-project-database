@@ -68,6 +68,10 @@ Final project developed by **Catarina Lenice** e **Rafael Duarte** for the cours
 
 ## Files
 
+* **descricao_projeto.pdf**
+
+    Contains (in portuguese) the project specifications defined by the professors.
+
 * **scriptCriaçãoUniversidade.sql** 
 
     Creates the database, tables and inserts data on them.
