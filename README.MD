@@ -68,7 +68,7 @@ Final project developed by **Catarina Lenice** e **Rafael Duarte** for the cours
 
 ## Files
 
-* **descricao_projeto.pdf**
+* **project_specifications.pdf**
 
     Contains (in portuguese) the project specifications defined by the professors.
 
