@@ -3,7 +3,7 @@
 
 ## Description
 
-Final project developed by **Catarina Lenice** e **Rafael Duarte** for the course "Banco de Dados I(Databases I)" at IFPB and presented in **August 2018**. It consisted in designing a relational database with the following specifications:
+Final project developed by **Catarina Lenice** and **Rafael Duarte** for the course "Banco de Dados I(Databases I)" at IFPB, presented in **August 2018**. It consisted in designing a relational database with the following specifications:
 
 1. **Introduction:**
 
